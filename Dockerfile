@@ -1,4 +1,4 @@
-from proj/img:v1
+from ubuntu
 env rel="2.0"
-run echo "echo" >/code/sample.sh
+run sh sample.sh
 cmd echo "hi"
